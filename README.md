@@ -2,7 +2,7 @@
 
 <ul>
   <li>
-    22 years old student from France 
+    22 year-old student from France 
   </li>
 </ul>
 
