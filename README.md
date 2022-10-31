@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I'm Rosenie!
+
+<ul>
+  <li>
+    22 years old student from France 
+  </li>
+</ul>
 
 <!--
 **roseniecucheval/roseniecucheval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +21,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/rosenie"><img src="https://api.daily.dev/devcards/b93cf3ea1ecf48558e108c7f2028a2ec.png?r=ura" width="400" alt="Rosenie Cucheval's Dev Card"/></a>
