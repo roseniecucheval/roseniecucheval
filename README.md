@@ -1,23 +1,3 @@
-### Hi there 👋 I'm Rosenie!
-
-<ul>
-  <li>
-    22 year-old student from France 
-  </li>
-</ul>
-
-<!--
-**roseniecucheval/roseniecucheval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+### Rosenie CUCHEVAL
+23 years old (💼 Sopra Steria - France)
+💻 Cobol, Java
